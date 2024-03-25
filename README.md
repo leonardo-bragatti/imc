@@ -15,10 +15,10 @@ yarn install
 Execute o seguinte comando:
 
 ```bash
-# using npm
+# usando npm
 npm start
 
-# OR using Yarn
+# OU usando Yarn
 yarn start
 ```
 
